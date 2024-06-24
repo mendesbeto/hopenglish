@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esperança N N Mendes - English Teacher</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #2c3e50;
+            color: #ecf0f1;
+        }
+        .container {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        header {
+            text-align: center;
+            padding: 50px 0;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 3em;
+            color: #e74c3c;
+        }
+        header p {
+            margin: 10px 0 0;
+            font-size: 1.2em;
+            color: #bdc3c7;
+        }
+        section {
+            margin: 40px 0;
+        }
+        section h2 {
+            font-size: 2em;
+            border-bottom: 2px solid #e74c3c;
+            padding-bottom: 10px;
+        }
+        .contact {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+        .contact div {
+            flex: 1 1 45%;
+            margin: 10px 0;
+        }
+        .contact div a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            font-size: 0.9em;
+            color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Esperança N N Mendes</h1>
+            <p>Professional English Teacher</p>
+        </header>
+        <section>
+            <h2>Sobre Mim</h2>
+            <p>Olá! Eu sou Esperança N N Mendes, uma professora de inglês dedicada e apaixonada pelo ensino de idiomas. Tenho anos de experiência em ajudar alunos a alcançar seus objetivos linguísticos. Meu método de ensino é interativo e focado em desenvolver as habilidades de comunicação dos meus alunos.</p>
+        </section>
+        <section>
+            <h2>Experiência</h2>
+            <ul>
+                <li><strong>Professor de Inglês, Escola XYZ</strong> - 2015 - Presente</li>
+                <li><strong>Professor de Inglês, Centro de Idiomas ABC</strong> - 2010 - 2015</li>
+                <li><strong>Instrutor de Inglês Online, Plataforma DEF</strong> - 2008 - 2010</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Contatos</h2>
+            <div class="contact">
+                <div>
+                    <strong>Email:</strong> <a href="mailto:esperanca@example.com">esperanca@example.com</a>
+                </div>
+                <div>
+                    <strong>Telefone:</strong> <a href="tel:+123456789">+123456789</a>
+                </div>
+                <div>
+                    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/esperanca">linkedin.com/in/esperanca</a>
+                </div>
+                <div>
+                    <strong>Website:</strong> <a href="https://www.esperancaenglishteacher.com">www.esperancaenglishteacher.com</a>
+                </div>
+            </div>
+        </section>
+    </div>
+    <footer>
+        &copy; 2024 Esperança N N Mendes. Todos os direitos reservados.
+    </footer>
+</body>
+</html>
